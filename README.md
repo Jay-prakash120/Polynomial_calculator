@@ -1,4 +1,5 @@
 What does this repository do ?
+
 -> You can find the zeros of a polynomial and it is now in vary beginning stage if you help to enhance the code then you are always welcome 🙏 🤗 
 Currently (polynomial pro) can only Calculate the zeros of binomial.
 
